@@ -1,8 +1,8 @@
-www.androidconnec.org  Example ListViews
+www.androidconnect.org  Example ListViews
 
  4 Examples how to implement diferents listviews
 
-    1. Defaul android listview with android.R.id.simple_item_list_1
+    1. Defaul android listview with android.R.id.simple_list_item_1
     2. With simple layout
     3. With ViewHolder
     4. With CacheHolder
